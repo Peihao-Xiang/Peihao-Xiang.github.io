@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Homepage Settings!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Peihao Xiang (相佩豪)"
+description              : "Ph.D. Student & Graduate Research Assistant, HCPS Lab, ECE, FIU. "
+repository               : "Peihao-Xiang/Peihao-Xiang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
