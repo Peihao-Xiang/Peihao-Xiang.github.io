@@ -19,9 +19,9 @@ redirect_from:
 
 I‘m a Ph.D. Candidate in the Department of Electrical and Computer Engineering at Florida International University (FIU), where I work as a Graduate Research&Teaching Assistant in Dr. Ou Bai’s Human Cyber-Physical Systems (HCPS) Laboratory.
 
-I have published research in venues across multimedia, biometrics, computer vision, and natural language processing, and I actively contribute to both algorithmic research and system-level implementation. I am always open to collaborations on multimodal learning, embedded AI systems, and real-time intelligent perception, especially in interdisciplinary settings that bridge AI algorithms with human-centered cyber-physical systems.
-
 My research focuses on the intersection of Computer Vision, Deep Learning, Embedded Systems, and Multimodal Large Language Models (MLLMs), with an emphasis on real-time, resource-constrained, and wearable AI systems. Currently, I'm working on an AI-powered wearable multimodal multi-task real-time dynamic behavior analysis system, aiming to integrate perception, reasoning, and decision-making into embedded and edge AI platforms. Particularly interested in efficient multimodal LLM inference, model compression, and edge/embedded AI deployment, with the goal of enabling intelligent systems to operate reliably under strict latency, computation, and energy constraints. My research has been applied to a range of real-world cyber-physical systems, including wearable exoskeletons, multimodal emotion recognition, and human–AI interaction systems.
+
+I have published research in venues across multimedia, biometrics, computer vision, and natural language processing, and I actively contribute to both algorithmic research and system-level implementation. I am always open to collaborations on multimodal learning, embedded AI systems, and real-time intelligent perception, especially in interdisciplinary settings that bridge AI algorithms with human-centered cyber-physical systems.
 
 📫 Contact: pxiang@fiu.edu
 
