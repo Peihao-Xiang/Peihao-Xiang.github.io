@@ -38,38 +38,23 @@ Currently, I'm working on an AI-powered wearable multimodal multi-task real-time
 
 **Peihao Xiang**, Chaohao Lin, Kaida Wu, Ou Bai
 
-IEEE 14th International Conference on Pattern Recognition Systems
+IEEE 14th International Conference on Pattern Recognition Systems | 15-18 July, 2024 | University of Westminster, London, UK
 
-[[**ICPRS2024**](http://s836450039.websitehome.co.uk/icprs24/index.html#intro)][[**Paper**](https://doi.org/10.1109/ICPRS62101.2024.10677820)][[**arXiv**](https://arxiv.org/abs/2404.18327)][[**Code**](https://github.com/Peihao-Xiang/MultiMAE-DER)][[**Video**](https://www.youtube.com/watch?v=HqaTGxtQaEo)][[**Presentation**](https://github.com/Peihao-Xiang/Peihao-Xiang.github.io/blob/main/Paper/MultiMAE-DER/HCPS_MultiMAE-DER%20Presentation_Peihao%20Xiang%20(Noah).pdf)]
+[[**ICPRS 2024**](http://s836450039.websitehome.co.uk/icprs24/index.html#intro)][[**Paper**](https://doi.org/10.1109/ICPRS62101.2024.10677820)][[**arXiv**](https://arxiv.org/abs/2404.18327)][[**Code**](https://github.com/Peihao-Xiang/MultiMAE-DER)][[**Video**](https://www.youtube.com/watch?v=HqaTGxtQaEo)]
 - MultiMAE-DER proposes a multimodal masked autoencoder framework for dynamic emotion recognition (DER) that learns robust temporal–emotional representations by jointly modeling multiple modalities (e.g., visual, audio, and physiological signals). 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPRS 2024</div><img src='Paper/MultiMAE-DER/MultiMAE-DER_V2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MultiMAE-DER: Multimodal Masked Autoencoder for Dynamic Emotion Recognition](https://doi.org/10.1109/ICPRS62101.2024.10677820)
-
-**Peihao Xiang**, Chaohao Lin, Kaida Wu, Ou Bai
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPRS 2024</div><img src='Paper/MultiMAE-DER/MultiMAE-DER_V2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MultiMAE-DER: Multimodal Masked Autoencoder for Dynamic Emotion Recognition](https://doi.org/10.1109/ICPRS62101.2024.10677820)
-
-**Peihao Xiang**, Chaohao Lin, Kaida Wu, Ou Bai
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Entropy Reveals Block Importance in Masked Self-Supervised Vision Transformers
+- Load Estimation for Industrial Load-lifting Exoskeletons Using Insole Pressure Sensors and Machine Learning
+- Label Ranker: Self-aware Preference for Classification Label Position in Visual Masked Self-supervised Pre-trained Model
+- CLL-RetICL: Contrastive Linguistic Label Retrieval-based In-Context Learning for Text Classification via Large Language Models
+- MTCAE-DFER: Multi-Task Cascaded Autoencoder for Dynamic Facial Expression Recognition
+- Human Intention Detection for Upper-Limb Assistive Exoskeletons Using a Motor’s Built-in Current Sensor
+- Emotion Styles Hide in Deep Speaker Embeddings: Disentangle Deep Speaker Embeddings for Speaker Clustering
+- MultiMAE-DER: Multimodal Masked Autoencoder for Dynamic Emotion Recognition
+- Assessment of a Modular Upper-Limb Exoskeleton with Powered Assistance
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
