@@ -31,7 +31,7 @@ Currently, I'm working on an AI-powered wearable multimodal multi-task real-time
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPRS 2024</div><img src='Paper/MultiMAE-DER/MultiMAE-DER_V2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPRS 2024</div><img src='Paper/MultiMAE-DER_V2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MultiMAE-DER: Multimodal Masked Autoencoder for Dynamic Emotion Recognition](https://doi.org/10.1109/ICPRS62101.2024.10677820)
