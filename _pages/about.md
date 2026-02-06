@@ -41,7 +41,7 @@ Currently, I'm working on an AI-powered wearable multimodal multi-task real-time
 IEEE 14th International Conference on Pattern Recognition Systems
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=k--3fM4AAAAJ&citation_for_view=k--3fM4AAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='k--3fM4AAAAJ:2osOgNQ5qMEC'></span></strong>
-[ICPRS2024](http://s836450039.websitehome.co.uk/icprs24/index.html#intro)[Paper](https://doi.org/10.1109/ICPRS62101.2024.10677820)[arXiv](https://arxiv.org/abs/2404.18327)[Code](https://github.com/Peihao-Xiang/MultiMAE-DER)[Video](https://www.youtube.com/watch?v=HqaTGxtQaEo)[Presentation]([#Paper/MultiMAE-DER/HCPS_MultiMAE-DER Presentation_Peihao Xiang (Noah).pdf](https://github.com/Peihao-Xiang/Peihao-Xiang.github.io/blob/main/Paper/MultiMAE-DER/HCPS_MultiMAE-DER%20Presentation_Peihao%20Xiang%20(Noah).pdf))
+[ICPRS2024](http://s836450039.websitehome.co.uk/icprs24/index.html#intro)[Paper](https://doi.org/10.1109/ICPRS62101.2024.10677820)[arXiv](https://arxiv.org/abs/2404.18327)[Code](https://github.com/Peihao-Xiang/MultiMAE-DER)[Video](https://www.youtube.com/watch?v=HqaTGxtQaEo)[Presentation](https://github.com/Peihao-Xiang/Peihao-Xiang.github.io/blob/main/Paper/MultiMAE-DER/HCPS_MultiMAE-DER%20Presentation_Peihao%20Xiang%20(Noah).pdf)
 - MultiMAE-DER proposes a multimodal masked autoencoder framework for dynamic emotion recognition (DER) that learns robust temporal–emotional representations by jointly modeling multiple modalities (e.g., visual, audio, and physiological signals). 
 </div>
 </div>
