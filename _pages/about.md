@@ -27,7 +27,7 @@ Currently, I'm working on an AI-powered wearable multimodal multi-task real-time
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2024.04*: &nbsp;🎉🎉 The paper [MultiMAE-DER] has been accepted by the 14th IEEE International Conference on Pattern Recognition Systems!
+- *2024.04*: &nbsp;🎉🎉 The paper [MultiMAE-DER](https://arxiv.org/abs/2404.18327) has been accepted by the 14th IEEE International Conference on Pattern Recognition Systems!
 
 # 📝 Publications 
 
