@@ -48,15 +48,6 @@ IEEE 14th International Conference on Pattern Recognition Systems
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- Entropy Reveals Block Importance in Masked Self-Supervised Vision Transformers
-- Load Estimation for Industrial Load-lifting Exoskeletons Using Insole Pressure Sensors and Machine Learning
-- Label Ranker: Self-aware Preference for Classification Label Position in Visual Masked Self-supervised Pre-trained Model
-- CLL-RetICL: Contrastive Linguistic Label Retrieval-based In-Context Learning for Text Classification via Large Language Models
-- MTCAE-DFER: Multi-Task Cascaded Autoencoder for Dynamic Facial Expression Recognition
-- Human Intention Detection for Upper-Limb Assistive Exoskeletons Using a Motor’s Built-in Current Sensor
-- Emotion Styles Hide in Deep Speaker Embeddings: Disentangle Deep Speaker Embeddings for Speaker Clustering
-- MultiMAE-DER: Multimodal Masked Autoencoder for Dynamic Emotion Recognition
-- Assessment of a Modular Upper-Limb Exoskeleton with Powered Assistance
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
