@@ -17,3 +17,14 @@ Person paper files:
 [8] Load Estimation for Industrial Load-lifting Exoskeletons Using Insole Pressure Sensors and Machine Learning
 
 [9] Entropy Reveals Block Importance in Masked Self-Supervised Vision Transformers
+
+2024.04
+MultiMAE-DER: Multimodal Masked Autoencoder for Dynamic Emotion Recognition
+Peihao Xiang, Chaohao Lin, Kaida Wu, Ou Bai
+IEEE 14th International Conference on Pattern Recognition Systems
+15-18 July, 2024 | University of Westminster, London, UK
+[ICPRS 2024] http://s836450039.websitehome.co.uk/icprs24/index.html#intro
+[arXiv] https://arxiv.org/abs/2404.18327
+[Paper] https://doi.org/10.1109/ICPRS62101.2024.10677820
+[Code] https://github.com/Peihao-Xiang/MultiMAE-DER
+[Video] https://www.youtube.com/watch?v=HqaTGxtQaEo
