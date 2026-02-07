@@ -33,6 +33,22 @@ Currently, I'm working on an AI-powered wearable multimodal multi-task real-time
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCB 2025</div><img src='Paper/MTCAE-DFER.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MTCAE-DFER: Multi-Task Cascaded Autoencoder for Dynamic Facial Expression Recognition](https://arxiv.org/abs/2412.18988)
+
+**Peihao Xiang**, Kaida Wu, Ou Bai
+
+IEEE 9th International Joint Conference on Biometrics
+
+8-11 September, 2025 \| Osaka, Japan
+
+[[**ICJB 2025**](https://ijcb2025.ieee-biometrics.org/)][[**arXiv**](https://arxiv.org/abs/2412.18988)][[**Code**](https://github.com/Peihao-Xiang/Label-Ranker)]
+- MTCAE-DFER learns robust spatiotemporal facial representations for dynamic expression recognition by cascading autoencoders under a multi-task learning framework that jointly optimizes reconstruction and classification.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMR 2025</div><img src='Paper/OP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
