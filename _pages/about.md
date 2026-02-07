@@ -42,7 +42,7 @@ Currently, I'm working on an AI-powered wearable multimodal multi-task real-time
 
 IEEE 14th International Conference on Pattern Recognition Systems
 
-15-18 July, 2024
+15-18 July, 2024 | University of Westminster, London, UK
 
 [[**ICPRS 2024**](http://s836450039.websitehome.co.uk/icprs24/index.html#intro)][[**Paper**](https://doi.org/10.1109/ICPRS62101.2024.10677820)][[**arXiv**](https://arxiv.org/abs/2404.18327)][[**Code**](https://github.com/Peihao-Xiang/MultiMAE-DER)][[**Video**](https://www.youtube.com/watch?v=HqaTGxtQaEo)]
 - MultiMAE-DER proposes a multimodal masked autoencoder framework for dynamic emotion recognition (DER) that learns robust temporal–emotional representations by jointly modeling multiple modalities (e.g., visual, audio, and physiological signals). 
