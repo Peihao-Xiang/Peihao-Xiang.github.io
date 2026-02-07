@@ -112,17 +112,64 @@ IEEE 14th International Conference on Pattern Recognition Systems
   [[arXiv](https://arxiv.org/abs/2412.18988)][[Code](https://github.com/Peihao-Xiang/MTCAE-DFER)]
   
 - [IJCNLP-AACL2025](https://2025.aaclnet.org/)\|[CLL-RetICL: Contrastive Linguistic Label Retrieval-based In-Context Learning for Text Classification via Large Language Models](https://aclanthology.org/2025.findings-ijcnlp.97/)
+
+  Chaohao Lin, Kaida Wu, Peihao Xiang, Yanzhao Wu, Ou Bai
+
+  ACL 14th International Joint Conference on Natural Language Processing & the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics
+
+  20-24 December, 2025 \| Mumbai, India
+
+  [[Paper](https://aclanthology.org/2025.findings-ijcnlp.97/)][[Code](https://github.com/Toby28/CLLRetICL)]
   
 - [ICMR2025](https://www.icmr-2025.org/)\|[Label Ranker: Self-aware Preference for Classification Label Position in Visual Masked Self-supervised Pre-trained Model](https://doi.org/10.1145/3731715.3733369)
+
+  Peihao Xiang, Kaida Wu, Ou Bai
+
+  ACM 15th International Conference on Multimedia Retrieval
+
+  30 June - 3 July, 2025 \| Chicago, IL, USA
+
+  [[Paper](https://doi.org/10.1145/3731715.3733369)][[Preprints](https://www.preprints.org/manuscript/202503.0003)][[Code](https://github.com/Peihao-Xiang/Label-Ranker)]
   
 - [AIAC2025](https://2025.icaiac.org/)\|[Human Intention Detection for Upper-Limb Assistive Exoskeletons Using a Motor’s Built-in Current Sensor](https://doi.org/10.1109/AIAC68175.2025.11332347)
+
+  Kaida Wu, Peihao Xiang, Chaohao Lin, Daniel Picado, Lixuan Chen, Ou Bai
+  
+  IEEE 3rd International Conference on Artificial Intelligence and Automation Control
+  
+  15-17 October, 2025 \| Paris, France
+
+  [[Paper](https://doi.org/10.1109/AIAC68175.2025.11332347)]
   
 - [ASRU2025](https://2025.ieeeasru.org/)\|[Emotional Styles Hide in Deep Speaker Embeddings: Disentangle Deep Speaker Embeddings for Speaker Clustering](https://arxiv.org/abs/2509.23358)
+
+  Chaohao Lin, Xu Zheng, Kaida Wu, Peihao Xiang, Ou Bai
+  
+  IEEE 2025 Automatic Speech Recognition and Understanding Workshop
+  
+  6-10 December, 2025 \| Honolulu, Hawaii, USA
+
+  [[arXiv](https://arxiv.org/abs/2509.23358)][[Code](https://github.com/Toby28/DDSESC)]
   
 - [ICPRS2024](http://s836450039.websitehome.co.uk/icprs24/index.html#intro)\|[MultiMAE-DER: Multimodal Masked Autoencoder for Dynamic Emotion Recognition](https://doi.org/10.1109/ICPRS62101.2024.10677820)
+
+  Peihao Xiang, Chaohao Lin, Kaida Wu, Ou Bai
+
+  IEEE 14th International Conference on Pattern Recognition Systems
+
+  15-18 July, 2024 \| University of Westminster, London, UK
+
+  [[Paper](https://doi.org/10.1109/ICPRS62101.2024.10677820)][[arXiv](https://arxiv.org/abs/2404.18327)][[Code](https://github.com/Peihao-Xiang/MultiMAE-DER)]
   
 - [ICARCE2023](https://www.icarce.com/)\|[Assessment of a Modular Upper-Limb Exoskeleton with Powered Assistance](https://doi.org/10.1109/ICARCE59252.2024.10492561)
-  
+
+  Kaida Wu, Peihao Xiang, Rodrigo Ramon, Aparna Aravelli, Leonel Lagos, Ou Bai
+
+  IEEE 2nd International Conference on Automation, Robotics and Computer Engineering
+
+  14-16 December, 2023 \| Wuhan, China
+
+  [[Paper](https://doi.org/10.1109/ICARCE59252.2024.10492561)]
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
