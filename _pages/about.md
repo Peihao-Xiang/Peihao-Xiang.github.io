@@ -33,6 +33,8 @@ Currently, I'm working on an AI-powered wearable multimodal multi-task real-time
 
 # 📝 Publications 
 
+## 🔆 Spotlight
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCB 2025</div><img src='Paper/Fusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -220,8 +222,28 @@ IEEE 14th International Conference on Pattern Recognition Systems
 - *2015.09 - 2019.06*, B.Eng. in Computer Science and Technology, Tianjin University of Commerce Boustead College, Tianjin, China.
 
 # 💬 Teaching
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+## 🎓 Florida Internation University
+Spring 2025
+- EGN 1002: Engineering Orientation
+- EEL 2880: C Programming for Embedded Systems
+- CNT 4155: Python Programming in ECE
+- TCN 4081: Telecommunication Network Security
+- TCN 4211: Telecommunication Networks
+
+Summer 2025
+- EEL 3657: Control Systems I
+- EEE 4752: Introduction to Network Forensics and Incident Response
+
+Fall 2025
+- TCN 4211: Telecommunication Networks
+- EEE 4752: Introduction to Network Forensics and Incident Response
+- EEL 4802: Introduction to Digital Forensics Engineering
+
+Spring 2026
+- EEL 3135: Signals and Systems
+- EEL 4802: Introduction to Digital Forensics Engineering
+- EEE 4752: Introduction to Network Forensics and Incident Response
+- TCN 4211: Telecommunication Networks
 
 # 💻 Professional Activities
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
