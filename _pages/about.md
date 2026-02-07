@@ -81,7 +81,7 @@ IEEE 14th International Conference on Pattern Recognition Systems
 </div>
 </div>
 
-## Conference Papers
+## 📌 Conference Papers
 
 - [**ICML2026**](https://icml.cc/)\|[Entropy Reveals Block Importance in Masked Self-Supervised Vision Transformers](https://arxiv.org/abs/2602.03918)
   
@@ -173,7 +173,7 @@ IEEE 14th International Conference on Pattern Recognition Systems
 
   [[**Paper**](https://doi.org/10.1109/ICARCE59252.2024.10492561)]
 
-## Patents
+## 📎 Patents
 - [Interaction Method, Device, Apparatus, Medium and Program Product](https://patents.google.com/patent/CN116107417A/en?q=(%E7%9B%B8)&inventor=%E4%BD%A9%E8%B1%AA&oq=%E7%9B%B8%E4%BD%A9%E8%B1%AA&page=1)
 
   Yuan Wang, **Peihao Xiang**, Lei Huang
