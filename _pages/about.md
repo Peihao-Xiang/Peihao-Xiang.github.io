@@ -81,11 +81,18 @@ IEEE 14th International Conference on Pattern Recognition Systems
 </div>
 </div>
 
-- [**``ICML 2023``**](https://www.icarce.com/)\|[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com)
+- [**ICML2023**](https://www.icarce.com/)\|[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com)
 
   A, B, C, **CVPR 2020**
   
-- `AAAI2024`
+- [**ICML2026**](https://icml.cc/)\|[Entropy Reveals Block Importance in Masked Self-Supervised Vision Transformers](https://arxiv.org/abs/2602.03918)
+  
+  Peihao Xiang, Kaida Wu, Ou Bai
+  
+  Forty-Third International Conference on Machine Learning
+  
+  6-11 July, 2026 | Seoul, South Korea
+  
 - [``ICML 2023``](https://www.icarce.com/)
 - [Assessment of a Modular Upper-Limb Exoskeleton with Powered Assistance]
 
