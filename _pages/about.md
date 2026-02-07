@@ -82,7 +82,9 @@ IEEE 14th International Conference on Pattern Recognition Systems
 </div>
 
 - [**``ICML 2023``**](https://www.icarce.com/)\|[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com)
+
   A, B, C, **CVPR 2020**
+  
 - `AAAI2024`
 - [``ICML 2023``](https://www.icarce.com/)
 - [Assessment of a Modular Upper-Limb Exoskeleton with Powered Assistance]
