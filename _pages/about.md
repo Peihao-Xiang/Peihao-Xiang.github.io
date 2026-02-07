@@ -247,18 +247,18 @@ Spring 2026
 
 # 💻 Professional Activities
 ## 🚀 Program Committee
-- The 12th International Conference on Information Management and Big Data (SIMBig 2025)
-- The 20th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2026)
-- The 16th ACM International Conference on Multimedia Retrieval (ICMR 2026)
+- The 12th International Conference on Information Management and Big Data ([**SIMBig 2025**](https://simbig.org/SIMBig2025/index.html))
+- The 20th IEEE International Conference on Automatic Face and Gesture Recognition ([**FG 2026**](https://fg2026.ieee-biometrics.org/))
+- The 16th ACM International Conference on Multimedia Retrieval ([**ICMR 2026**](https://icmr2026.org/))
 
 ## ✒️ Conference Reviewer
-- 2025 International Joint Conference on Neural Networks (IJCNN 2025)
-- The 19th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2025) 2nd Workshop on Interdisciplinary Applications of Biometrics and Identity Science
-- The 15th ACM International Conference on Multimedia Retrieval (ICMR 2025)
-- The 3rd International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2026)
-- The 6th International Conference on Electrical, Computer and Energy Technologies (ICECET 2026)
-- 2026 International Joint Conference on Neural Networks (IJCNN 2026)
-- Forty-Third International Conference on Machine Learning (ICML 2026)
+- 2025 International Joint Conference on Neural Networks ([**IJCNN 2025**](https://2025.ijcnn.org/))
+- The 19th IEEE International Conference on Automatic Face and Gesture Recognition ([**FG 2025**](https://fg2025.ieee-biometrics.org/)) 2nd Workshop on Interdisciplinary Applications of Biometrics and Identity Science
+- The 15th ACM International Conference on Multimedia Retrieval ([**ICMR 2025**](https://www.icmr-2025.org/))
+- The 3rd International Conference on Artificial Intelligence, Computer, Data Sciences and Applications ([**ACDSA 2026**](https://www.acdsa.org/))
+- The 6th International Conference on Electrical, Computer and Energy Technologies ([**ICECET 2026**](https://www.icecet.com/))
+- 2026 International Joint Conference on Neural Networks ([**IJCNN 2026**](https://attend.ieee.org/wcci-2026/))
+- Forty-Third International Conference on Machine Learning ([**ICML 2026**](https://icml.cc/))
 
 # 🎖 Honors and Awards
 - *2021.10* 🎊 🎊 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
