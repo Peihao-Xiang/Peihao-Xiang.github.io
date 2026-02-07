@@ -81,20 +81,48 @@ IEEE 14th International Conference on Pattern Recognition Systems
 </div>
 </div>
 
-- [**ICML2023**](https://www.icarce.com/)\|[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com)
-
-  A, B, C, **CVPR 2020**
-  
 - [**ICML2026**](https://icml.cc/)\|[Entropy Reveals Block Importance in Masked Self-Supervised Vision Transformers](https://arxiv.org/abs/2602.03918)
   
-  Peihao Xiang, Kaida Wu, Ou Bai
+  **Peihao Xiang**, Kaida Wu, Ou Bai
   
   Forty-Third International Conference on Machine Learning
   
-  6-11 July, 2026 | Seoul, South Korea
+  6-11 July, 2026 \| Seoul, South Korea
+
+  [[**arXiv**](https://arxiv.org/abs/2602.03918)]
   
-- [``ICML 2023``](https://www.icarce.com/)
-- [Assessment of a Modular Upper-Limb Exoskeleton with Powered Assistance]
+- [**AIRC2026**](https://www.airc.org/)\|[Load Estimation for Industrial Load-lifting Exoskeletons Using Insole Pressure Sensors and Machine Learning](https://arxiv.org/abs/2503.07527)
+
+  Kaida Wu, **Peihao Xiang**, Chaohao Lin and Ou Bai
+
+  IEEE 7th International Conference on Artificial Intelligence, Robotics, and Control
+
+  8-10 April, 2026 \| Georgia Southern University, Savannah, GA, USA
+
+  [[arXiv](https://arxiv.org/abs/2503.07527)]
+  
+- [**IJCB2025**](https://ijcb2025.ieee-biometrics.org/)\|[MTCAE-DFER: Multi-Task Cascaded Autoencoder for Dynamic Facial Expression Recognition](https://arxiv.org/abs/2412.18988)
+
+  **Peihao Xiang**, Kaida Wu, Ou Bai
+
+  IEEE 9th International Joint Conference on Biometrics
+
+  8-11 September, 2025 \| Osaka, Japan
+
+  [[arXiv](https://arxiv.org/abs/2412.18988)][[Code](https://github.com/Peihao-Xiang/MTCAE-DFER)]
+  
+- [IJCNLP-AACL2025](https://2025.aaclnet.org/)\|[CLL-RetICL: Contrastive Linguistic Label Retrieval-based In-Context Learning for Text Classification via Large Language Models](https://aclanthology.org/2025.findings-ijcnlp.97/)
+  
+- [ICMR2025](https://www.icmr-2025.org/)\|[Label Ranker: Self-aware Preference for Classification Label Position in Visual Masked Self-supervised Pre-trained Model](https://doi.org/10.1145/3731715.3733369)
+  
+- [AIAC2025](https://2025.icaiac.org/)\|[Human Intention Detection for Upper-Limb Assistive Exoskeletons Using a Motor’s Built-in Current Sensor](https://doi.org/10.1109/AIAC68175.2025.11332347)
+  
+- [ASRU2025](https://2025.ieeeasru.org/)\|[Emotional Styles Hide in Deep Speaker Embeddings: Disentangle Deep Speaker Embeddings for Speaker Clustering](https://arxiv.org/abs/2509.23358)
+  
+- [ICPRS2024](http://s836450039.websitehome.co.uk/icprs24/index.html#intro)\|[MultiMAE-DER: Multimodal Masked Autoencoder for Dynamic Emotion Recognition](https://doi.org/10.1109/ICPRS62101.2024.10677820)
+  
+- [ICARCE2023](https://www.icarce.com/)\|[Assessment of a Modular Upper-Limb Exoskeleton with Powered Assistance](https://doi.org/10.1109/ICARCE59252.2024.10492561)
+  
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
