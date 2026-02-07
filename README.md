@@ -3,7 +3,7 @@
 Homepage
 </h1>
 
-<p align="center">[Peihao Xiang's Academic Personal Homepage](https://Peihao-Xiang.github.io/)</p>
+<p align="center">Peihao Xiang's Academic Personal Homepage</p>
 
 <p align="center">
     <br>
