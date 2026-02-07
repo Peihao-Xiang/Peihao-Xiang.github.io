@@ -81,11 +81,9 @@ IEEE 14th International Conference on Pattern Recognition Systems
 </div>
 </div>
 
-- <div class="badge">IJCB 2025</div>
-[MultiMAE]
-- <div class="badge">[IJCB 2025](https://ijcb2025.ieee-biometrics.org/)</div>[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 - `AAAI 2024`
-- ``ICML 2023``
+- [``ICML 2023``](https://www.icarce.com/)
 - [Assessment of a Modular Upper-Limb Exoskeleton with Powered Assistance]
 
 # 🎖 Honors and Awards
