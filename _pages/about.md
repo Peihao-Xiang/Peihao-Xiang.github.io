@@ -215,8 +215,9 @@ IEEE 14th International Conference on Pattern Recognition Systems
   Application number: 202120572811 .4
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.01 - 2026.06\**, Ph.D. in Electrical and Computer Engineering, Florida International University, Miami, FL, USA.
+- *2021.08 - 2022.12*, M.S. in Computer Engineering, Florida International University, Miami, FL, USA.
+- *2015.09 - 2019.06*, B.Eng. in Computer Science and Technology, Tianjin University of Commerce Boustead College, Tianjin, China.
 
 # 💬 Teaching
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
