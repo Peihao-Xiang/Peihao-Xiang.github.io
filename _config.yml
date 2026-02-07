@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Peihao Xiang-- (相佩豪)"
+title                    : "Peihao Xiang---- (相佩豪)"
 description              : "Ph.D. Candidate Student & Graduate Research Assistant, HCPS Laboratory. "
 repository               : "Peihao-Xiang/Peihao-Xiang.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Peihao Xiang-- (相佩豪)"
+  name             : "Peihao Xiang---- (相佩豪)"
   avatar           : "images/android-chrome-192x192.png"
   bio              : "Department of Electrical and Computer Engineering, Florida International University."
   location         : "Miami, FL"
