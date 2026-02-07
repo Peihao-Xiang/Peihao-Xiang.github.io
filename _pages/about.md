@@ -33,7 +33,7 @@ Currently, I'm working on an AI-powered wearable multimodal multi-task real-time
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCB 2025</div><img src='Paper/MTCAE-DFER.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCB 2025</div><img src='Paper/Fusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MTCAE-DFER: Multi-Task Cascaded Autoencoder for Dynamic Facial Expression Recognition](https://arxiv.org/abs/2412.18988)
