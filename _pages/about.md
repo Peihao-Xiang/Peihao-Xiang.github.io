@@ -25,11 +25,11 @@ Currently, I'm working on an AI-powered wearable multimodal multi-task real-time
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 The [MTCAE-DFER](https://github.com/Peihao-Xiang/MTCAE-DFER) project code has been uploaded to GitHub.
-- *2025.07*: &nbsp;🎉🎉 The paper [MTCAE-DFER](https://arxiv.org/abs/2412.18988) has been accepted by the 9th IEEE International Joint Conference on Biometrics!
-- *2025.06*: &nbsp;🎉🎉 The paper [Label Ranker](https://doi.org/10.1145/3731715.3733369) has been published on ACM DL.
-- *2025.04*: &nbsp;🎉🎉 The paper [Label Ranker](https://www.preprints.org/manuscript/202503.0003) has been accepted by the 15th ACM International Conference on Multimedia Retrieval!
-- *2024.04*: &nbsp;🎉🎉 The paper [MultiMAE-DER](https://arxiv.org/abs/2404.18327) has been accepted by the 14th IEEE International Conference on Pattern Recognition Systems!
+- *2025.08*: &nbsp;🎉🎉 The [[**MTCAE-DFER Project**](https://github.com/Peihao-Xiang/MTCAE-DFER)] code has been uploaded to GitHub.
+- *2025.07*: &nbsp;🎉🎉 The paper [**MTCAE-DFER**](https://arxiv.org/abs/2412.18988) has been accepted by the 9th IEEE International Joint Conference on Biometrics!
+- *2025.06*: &nbsp;🎉🎉 The paper [**Label Ranker**](https://doi.org/10.1145/3731715.3733369) has been published on ACM DL.
+- *2025.04*: &nbsp;🎉🎉 The paper [**Label Ranker**](https://www.preprints.org/manuscript/202503.0003) has been accepted by the 15th ACM International Conference on Multimedia Retrieval!
+- *2024.04*: &nbsp;🎉🎉 The paper [**MultiMAE-DER**](https://arxiv.org/abs/2404.18327) has been accepted by the 14th IEEE International Conference on Pattern Recognition Systems!
 
 # 📝 Publications 
 
