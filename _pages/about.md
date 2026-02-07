@@ -33,6 +33,22 @@ Currently, I'm working on an AI-powered wearable multimodal multi-task real-time
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMR 2025</div><img src='Paper/Label_Orderer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Label Ranker: Self-aware Preference for Classification Label Position in Visual Masked Self-supervised Pre-trained Model](https://doi.org/10.1145/3731715.3733369)
+
+**Peihao Xiang**, Kaida Wu, Ou Bai
+
+ACM 15th International Conference on Multimedia Retrieval
+
+30 June - 3 July, 2025 \| Chicago, IL, USA
+
+[[**ICMR 2025**](https://www.icmr-2025.org/)][[**Paper**](https://doi.org/10.1145/3731715.3733369)][[**Preprints**](https://www.preprints.org/manuscript/202503.0003)][[**Code**](https://github.com/Peihao-Xiang/Label-Ranker)][[**Video**](https://drive.google.com/file/d/1MhP51vQf-NjJPpR_13V6N2MW46kTq67b/view?usp=drive_link)]
+- Label Ranker introduces a self-aware label positioning mechanism for visual masked self-supervised pre-trained models (e.g., MAE-style architectures). It observes that the position at which a classification label (or token) is injected into the model significantly affects downstream performance, yet is usually treated as a fixed or arbitrary design choice.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPRS 2024</div><img src='Paper/MultiMAE-DER_V2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
