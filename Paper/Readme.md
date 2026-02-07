@@ -57,3 +57,23 @@ ACM 15th International Conference on Multimedia Retrieval
 [Code] https://github.com/Peihao-Xiang/Label-Ranker
 
 [Video] https://drive.google.com/file/d/1MhP51vQf-NjJPpR_13V6N2MW46kTq67b/view?usp=drive_link
+
+2025.07
+
+MTCAE-DFER: Multi-Task Cascaded Autoencoder for Dynamic Facial Expression Recognition
+
+Peihao Xiang, Kaida Wu, Ou Bai
+
+IEEE 9th International Joint Conference on Biometrics
+
+8-11 September, 2025 | Osaka, Japan
+
+[IJCB 2025] https://ijcb2025.ieee-biometrics.org/
+
+[Paper]
+
+[arXiv] https://arxiv.org/abs/2412.18988
+
+[Code] https://github.com/Peihao-Xiang/MTCAE-DFER
+
+[Video]
