@@ -163,7 +163,7 @@ IEEE 14th International Conference on Pattern Recognition Systems
 
   15-18 July, 2024 \| University of Westminster, London, UK
 
-  [[**Paper**](https://doi.org/10.1109/ICPRS62101.2024.10677820)][[**arXiv**](https://arxiv.org/abs/2404.18327)][[**Code**](https://github.com/Peihao-Xiang/MultiMAE-DER)]
+  [[**Paper**](https://doi.org/10.1109/ICPRS62101.2024.10677820)][[**arXiv**](https://arxiv.org/abs/2404.18327)][[**Code**](https://github.com/Peihao-Xiang/MultiMAE-DER)][![](https://img.shields.io/github/stars/Peihao-Xiang/MultiMAE-DER)](https://github.com/Peihao-Xiang/MultiMAE-DER)
   
 - [**ICARCE2023**](https://www.icarce.com/)\|[Assessment of a Modular Upper-Limb Exoskeleton with Powered Assistance](https://doi.org/10.1109/ICARCE59252.2024.10492561)
 
