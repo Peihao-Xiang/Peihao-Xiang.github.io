@@ -81,7 +81,7 @@ IEEE 14th International Conference on Pattern Recognition Systems
 </div>
 </div>
 
-Conference Papers
+## Conference Papers
 
 - [**ICML2026**](https://icml.cc/)\|[Entropy Reveals Block Importance in Masked Self-Supervised Vision Transformers](https://arxiv.org/abs/2602.03918)
   
@@ -172,6 +172,47 @@ Conference Papers
   14-16 December, 2023 \| Wuhan, China
 
   [[**Paper**](https://doi.org/10.1109/ICARCE59252.2024.10492561)]
+
+## Patents
+- [Interaction Method, Device, Apparatus, Medium and Program Product](https://patents.google.com/patent/CN116107417A/en?q=(%E7%9B%B8)&inventor=%E4%BD%A9%E8%B1%AA&oq=%E7%9B%B8%E4%BD%A9%E8%B1%AA&page=1)
+
+  Yuan Wang, **Peihao Xiang**, Lei Huang
+
+  Publication date: 2023/5/12
+
+  Patent number: CN 116107417 A
+
+  Application number: 202111327835 .4
+
+- [Visual and Tactile Feedback System](https://patents.google.com/patent/CN116088671A/en?q=(%E7%9B%B8)&inventor=%E4%BD%A9%E8%B1%AA&oq=%E7%9B%B8%E4%BD%A9%E8%B1%AA&page=1)
+
+  Yuan Wang, **Peihao Xiang**, Lei Huang
+
+  Publication date: 2023/5/9
+
+  Patent number: CN 116088671 A
+
+  Application number: 202111312751 .3
+
+- [Visual-Tactile Feedback System](https://patents.google.com/patent/CN216052966U/en?q=(%E7%9B%B8)&inventor=%E4%BD%A9%E8%B1%AA&oq=%E7%9B%B8%E4%BD%A9%E8%B1%AA)
+
+  Yuan Wang, **Peihao Xiang**, Lei Huang
+
+  Publication date: 2022/3/15
+
+  Patent Number: CN 216052966 U
+
+  Application number: 202122723460 .5
+
+- [Industrial Synchronous Pulse Fiber Optic Transceiver Server](https://patents.google.com/patent/CN214507078U/en?q=(%E7%9B%B8)&inventor=%E4%BD%A9%E8%B1%AA&oq=%E7%9B%B8%E4%BD%A9%E8%B1%AA&page=1)
+
+  Yalei Yin, **Peihao Xiang**, Haipeng Liang
+
+  Publication date: 2021/10/26
+
+  Patent Number: CN 214507078 U
+
+  Application number: 202120572811 .4
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
