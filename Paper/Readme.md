@@ -37,3 +37,23 @@ IEEE 14th International Conference on Pattern Recognition Systems
 [Code] https://github.com/Peihao-Xiang/MultiMAE-DER
 
 [Video] https://www.youtube.com/watch?v=HqaTGxtQaEo
+
+2025.04
+
+Label Ranker: Self-aware Preference for Classification Label Position in Visual Masked Self-supervised Pre-trained Model
+
+Peihao Xiang, Kaida Wu, Ou Bai
+
+ACM 15th International Conference on Multimedia Retrieval
+
+30 June - 3 July, 2025 | Chicago, IL, USA
+
+[ICMR 2025] https://www.icmr-2025.org/
+
+[Preprints] https://www.preprints.org/manuscript/202503.0003
+
+[Paper] https://doi.org/10.1145/3731715.3733369
+
+[Code] https://github.com/Peihao-Xiang/Label-Ranker
+
+[Video] https://drive.google.com/file/d/1MhP51vQf-NjJPpR_13V6N2MW46kTq67b/view?usp=drive_link
