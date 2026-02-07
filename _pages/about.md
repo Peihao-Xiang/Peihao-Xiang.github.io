@@ -33,7 +33,7 @@ Currently, I'm working on an AI-powered wearable multimodal multi-task real-time
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMR 2025</div><img src='Paper/Label_Orderer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMR 2025</div><img src='Paper/OP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Label Ranker: Self-aware Preference for Classification Label Position in Visual Masked Self-supervised Pre-trained Model](https://doi.org/10.1145/3731715.3733369)
