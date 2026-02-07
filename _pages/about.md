@@ -261,5 +261,9 @@ Spring 2026
 - Forty-Third International Conference on Machine Learning ([**ICML 2026**](https://icml.cc/))
 
 # 🎖 Honors and Awards
-- *2021.10* 🎊 🎊 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.07*: &nbsp;🎊🎊 Outstanding Undergraduate Thesis (TUCBC).
+- *2019.06*: &nbsp;🎊🎊 Outstanding Graduate Award (TUCBC).
+- *2018.11*: &nbsp;🎊🎊 Outstanding Student Award (Tianjin).
+- *2017.06*: &nbsp;🎊🎊 The 2nd Prize for 1st College Student Innovation and Entrepreneurship Competition.
+- *2017.05*: &nbsp;🎊🎊 Outstanding Award for College Programming Competition.
+- *2016.03*: &nbsp;🎊🎊 The 2nd Prize for 4th “CATCH” National College Student Internet Software Design Competition.
