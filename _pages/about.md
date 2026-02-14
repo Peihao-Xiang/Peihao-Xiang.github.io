@@ -21,7 +21,7 @@ I‘m a Ph.D. Candidate in the [Department of Electrical and Computer Engineerin
 
 Currently, I'm working on an AI-powered wearable multimodal multi-task real-time dynamic behavior analysis system, aiming to integrate perception, reasoning, and decision-making into embedded and edge AI platforms. Particularly interested in efficient multimodal LLM inference, model compression, and edge/embedded AI deployment, with the goal of enabling intelligent systems to operate reliably under strict latency, computation, and energy constraints. My research has been applied to a range of real-world cyber-physical systems, including wearable exoskeletons, multimodal emotion recognition, and human–AI interaction systems.
 
-📫 Contact: [pxiang@fiu.edu](mailto:pxiang@fiu.edu)
+📫 Contact: [pxiang@fiu.edu](mailto:pxiang@fiu.edu) ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Peihao-Xiang.Peihao-Xiang.github.io)
 
 
 # 🔥 News
