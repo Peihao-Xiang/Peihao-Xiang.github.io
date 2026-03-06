@@ -47,7 +47,7 @@ IEEE 9th International Joint Conference on Biometrics
 
 8-11 September, 2025 \| Osaka, Japan
 
-[[**IJCB 2025**](https://ijcb2025.ieee-biometrics.org/)][[**Paper**](https://doi.org/10.1109/IJCB65343.2025.11410713)][[**arXiv**](https://arxiv.org/abs/2412.18988)][[**Code**](https://github.com/Peihao-Xiang/MTCAE-DFER)][![**Poster**](./Paper/IJCB2025_Poster.png)]
+[[**IJCB 2025**](https://ijcb2025.ieee-biometrics.org/)][[**Paper**](https://doi.org/10.1109/IJCB65343.2025.11410713)][[**arXiv**](https://arxiv.org/abs/2412.18988)][[**Code**](https://github.com/Peihao-Xiang/MTCAE-DFER)][[**Poster**](./Paper/IJCB2025_Poster.png)]
 - MTCAE-DFER learns robust spatiotemporal facial representations for dynamic expression recognition by cascading autoencoders under a multi-task learning framework that jointly optimizes reconstruction and classification.
 </div>
 </div>
