@@ -25,6 +25,7 @@ Currently, I'm working on an AI-powered wearable multimodal multi-task real-time
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 The paper [**MTCAE-DFER**](https://doi.org/10.1109/IJCB65343.2025.11410713) has been published on IEEE.
 - *2025.08*: &nbsp;🎉🎉 The [[**MTCAE-DFER Project**](https://github.com/Peihao-Xiang/MTCAE-DFER)] code has been uploaded to GitHub.
 - *2025.07*: &nbsp;🎉🎉 The paper [**MTCAE-DFER**](https://arxiv.org/abs/2412.18988) has been accepted by the 9th IEEE International Joint Conference on Biometrics!
 - *2025.06*: &nbsp;🎉🎉 The paper [**Label Ranker**](https://doi.org/10.1145/3731715.3733369) has been published on ACM DL.
@@ -46,7 +47,7 @@ IEEE 9th International Joint Conference on Biometrics
 
 8-11 September, 2025 \| Osaka, Japan
 
-[[**IJCB 2025**](https://ijcb2025.ieee-biometrics.org/)][[**arXiv**](https://arxiv.org/abs/2412.18988)][[**Code**](https://github.com/Peihao-Xiang/MTCAE-DFER)]
+[[**IJCB 2025**](https://ijcb2025.ieee-biometrics.org/)][[**Paper**](https://doi.org/10.1109/IJCB65343.2025.11410713)][[**arXiv**](https://arxiv.org/abs/2412.18988)][[**Code**](https://github.com/Peihao-Xiang/MTCAE-DFER)][[**Poster**]]
 - MTCAE-DFER learns robust spatiotemporal facial representations for dynamic expression recognition by cascading autoencoders under a multi-task learning framework that jointly optimizes reconstruction and classification.
 </div>
 </div>
@@ -113,7 +114,7 @@ IEEE 14th International Conference on Pattern Recognition Systems
 
   8-11 September, 2025 \| Osaka, Japan
 
-  [[**arXiv**](https://arxiv.org/abs/2412.18988)][[**Code**](https://github.com/Peihao-Xiang/MTCAE-DFER)]
+  [[**Paper**](https://doi.org/10.1109/IJCB65343.2025.11410713)][[**arXiv**](https://arxiv.org/abs/2412.18988)][[**Code**](https://github.com/Peihao-Xiang/MTCAE-DFER)]
   
 - [**IJCNLP-AACL2025**](https://2025.aaclnet.org/)\|[CLL-RetICL: Contrastive Linguistic Label Retrieval-based In-Context Learning for Text Classification via Large Language Models](https://aclanthology.org/2025.findings-ijcnlp.97/)
 
