@@ -25,7 +25,7 @@ Currently, I'm working on an AI-powered wearable multimodal multi-task real-time
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 The paper [**MTCAE-DFER**](https://doi.org/10.1109/IJCB65343.2025.11410713) has been published on IEEE.
+- *2026.03*: &nbsp;🎉🎉 The paper [**MTCAE-DFER**](https://doi.org/10.1109/IJCB65343.2025.11410713) has been published on IEEE.
 - *2025.08*: &nbsp;🎉🎉 The [[**MTCAE-DFER Project**](https://github.com/Peihao-Xiang/MTCAE-DFER)] code has been uploaded to GitHub.
 - *2025.07*: &nbsp;🎉🎉 The paper [**MTCAE-DFER**](https://arxiv.org/abs/2412.18988) has been accepted by the 9th IEEE International Joint Conference on Biometrics!
 - *2025.06*: &nbsp;🎉🎉 The paper [**Label Ranker**](https://doi.org/10.1145/3731715.3733369) has been published on ACM DL.
