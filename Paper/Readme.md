@@ -70,10 +70,10 @@ IEEE 9th International Joint Conference on Biometrics
 
 [IJCB 2025] https://ijcb2025.ieee-biometrics.org/
 
-[Paper]
+[Paper] https://doi.org/10.1109/IJCB65343.2025.11410713
 
 [arXiv] https://arxiv.org/abs/2412.18988
 
 [Code] https://github.com/Peihao-Xiang/MTCAE-DFER
 
-[Video]
+[Poster] https://peihao-xiang.github.io/Paper/IJCB2025_Poster.png
