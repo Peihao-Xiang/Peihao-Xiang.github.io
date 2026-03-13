@@ -254,7 +254,7 @@ Spring 2026
 
 ## ✒️ Conference Reviewer
 - 2025 International Joint Conference on Neural Networks ([**IJCNN 2025**](https://2025.ijcnn.org/))
-- The 19th IEEE International Conference on Automatic Face and Gesture Recognition ([**FG 2025**](https://fg2025.ieee-biometrics.org/)) 2nd Workshop on Interdisciplinary Applications of Biometrics and Identity Science
+- The 19th IEEE International Conference on Automatic Face and Gesture Recognition ([**FG 2025**](https://fg2025.ieee-biometrics.org/)) 2nd Workshop on Interdisciplinary Applications of Biometrics and Identity Science ([**InterID 2025**](https://cse.usf.edu/~tjneal/InterID2025/index.html))
 - The 15th ACM International Conference on Multimedia Retrieval ([**ICMR 2025**](https://www.icmr-2025.org/))
 - The 3rd International Conference on Artificial Intelligence, Computer, Data Sciences and Applications ([**ACDSA 2026**](https://www.acdsa.org/))
 - The 6th International Conference on Electrical, Computer and Energy Technologies ([**ICECET 2026**](https://www.icecet.com/))
