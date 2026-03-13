@@ -260,6 +260,7 @@ Spring 2026
 - The 6th International Conference on Electrical, Computer and Energy Technologies ([**ICECET 2026**](https://www.icecet.com/))
 - 2026 International Joint Conference on Neural Networks ([**IJCNN 2026**](https://attend.ieee.org/wcci-2026/))
 - Forty-Third International Conference on Machine Learning ([**ICML 2026**](https://icml.cc/))
+- IEEE RAS/EMBS 11th International Conference on Biomedical Robotics and Biomechatronics ([**BioRob 2026**](https://2026.ieeebiorob.org/))
 
 # 🎖 Honors and Awards
 - *2019.07*: &nbsp;🎊🎊 Outstanding Undergraduate Thesis (TUCBC).
